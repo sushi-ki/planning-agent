@@ -12,14 +12,16 @@ Conduct deep web research in parallel using tools like Tavily Search.
 Write coherent and structured content for each section.
 Generate a high-quality, ready-to-use report including an introduction, key sections, and conclusion.
 ⚠️ Note: This project can generate a high number of web queries and may exceed your API limits for Tavily Search on the free tier.
-🛠 Features
+
+## 🛠 Features
 
 ✅ Automated Report Planning: Based on the topic, the agent determines an optimal structure for the report.
 🔍 Web-Integrated Research: Uses real-time data from the web to ensure fresh, relevant information.
 ⚙️ Parallel Processing: Executes research and section writing in parallel to boost efficiency.
 📝 Structured Content Generation: Divides report into introduction, main sections, and conclusion.
 📚 Final Compilation: Merges all generated content into a polished final report.
-🧩 Tech Stack
+
+## 🧩 Tech Stack
 
 LangGraph – for building composable and stateful agents.
 LangChain – for prompt orchestration and tool chaining.
