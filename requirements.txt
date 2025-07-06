@@ -1,0 +1,16 @@
+IPython
+asyncio
+dataclasses
+getpass
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-core
+langchain-openai==0.3.0
+langgraph==0.2.64
+operator
+os
+pydantic
+rich
+tiktoken
+typing
+typing_extensions
