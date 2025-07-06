@@ -47,8 +47,8 @@ All content is compiled into a final, human-readable report.
 ## 📦 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/deep-research-planning-agent.git
-cd deep-research-planning-agent
+git clone https://github.com/sushi-ki/planning-agent
+cd planning-agent
 Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate  # on Windows use `venv\Scripts\activate`
